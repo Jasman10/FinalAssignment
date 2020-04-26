@@ -22,8 +22,7 @@ namespace FinalAssignment
         /// <param name="g"></param>
         public override void Draw(Graphics g)
         {
-            Pen p = new Pen(c1, 5);
-            if (texturestyle == 0)
+            
             {
                 g.DrawRectangle(p, x, y, size, size1);
             }
