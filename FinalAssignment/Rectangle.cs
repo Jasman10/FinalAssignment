@@ -45,7 +45,10 @@ namespace FinalAssignment
             this.texturestyle = texturestyle;
             this.bb = bb;
             this.c1 = c1;
-            
+            this.x = list[0];
+            this.y = list[1];
+            this.size = list[2];
+            this.size1 = list[3];
         }
     }
 }
