@@ -36,15 +36,13 @@ namespace FinalAssignment
         /// <param name="bb">type of brush</param>
         /// <param name="c1">color </param>
         /// <param name="list">list of parameter that will be passed inside this function</param>
-        public override void set(int texturestyle, Brush bb, Color c1, params int[] list)
+         override void set(int texturestyle, Brush bb, Color c1, params int[] list)
         {
             this.texturestyle = texturestyle;
             this.bb = bb;
             this.c1 = c1;
             this.x = list[0];
-            this.y = list[1];
-            this.size = list[2];
-            this.size1 = list[3];
+            
         }
     }
 }
