@@ -15,7 +15,7 @@ namespace UnitTestProjectProgram
         [TestMethod]
 
 
-         void TestMethod1()
+       public void TestMethod1()
         {
             var t = new FinalAssignment.Triangle();
             int xi1 = 100, yi1 = 200, xi2 = 200, yi2 = 200, xii1 = 200, yii1 = 200, xii2 = 200, yii2 = 200, xiii1 = 200, yiii1 = 200, xiii2 = 200, yiii2 = 200;
