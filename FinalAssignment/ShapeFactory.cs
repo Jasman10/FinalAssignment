@@ -28,7 +28,7 @@ namespace FinalAssignment
             {
                 return new Triangle();
             }
-            
+            return null;
         }
     }
 }
