@@ -11,15 +11,7 @@ namespace Paint
     public class Validation
     {
 
-        private TextBox txtCommand;
-        public Boolean isValidCommand = true;
-        public Boolean isSomethingInvalid = false;
-        public int Raduis = 0;
-        public int Width = 0;
-        public int Height = 0;
-        public int counter = 0;
-        public int LoopCounter = 0;
-        public int lineNumber = 0;
+       
 
         public Boolean hasLoop = false;
         public Boolean hasEndLoop = false;
