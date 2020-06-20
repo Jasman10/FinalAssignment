@@ -12,7 +12,7 @@ namespace FinalAssignment
         
        public  int x, y, size, size1;
        public  int texturestyle;
-        Random 1
+       
        public  Brush bb;
        public  Color c1;
 
