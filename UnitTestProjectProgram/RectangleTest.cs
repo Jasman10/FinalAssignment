@@ -11,7 +11,7 @@ namespace UnitTestProjectProgram
     {
         int texturestyle;
         Brush bb;
-        it i;
+       
         Color c1 = Color.Black;
         
         public RectangleTest()
