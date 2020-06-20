@@ -27,7 +27,7 @@ namespace FinalAssignment
             else
             {
                 g.FillEllipse(bb, x, y, size, size1);
-            }
+            }else
         }
         /// <summary>
         /// Setting the required parameter for circle
