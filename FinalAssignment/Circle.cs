@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FinalAssignment
 {
-    class Circle : Shape
+    public class Circle : Shape
     {
         /// <summary>
         /// Getting value for ellipse
